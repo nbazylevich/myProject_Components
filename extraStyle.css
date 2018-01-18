@@ -1,0 +1,6 @@
+.posRelative{
+    position: relative;
+}
+.inlineBlock{
+    display: inline-block;
+}

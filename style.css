@@ -1,0 +1,42 @@
+.sliderAboutSite{
+    margin: auto;
+    width: 400px;
+    height: 300px;
+    /*background-color: lightblue;*/
+    outline: 1px solid lightgrey;
+    font-size: 0;
+}
+.sliderAboutSite_content{
+    padding: 5px;
+}
+.siteHeader{
+    outline: 1px solid lightgrey;
+    height: 20px;
+}
+.sliderAboutSite .block1 {
+    padding-top: 10px;
+}
+.siteHeaderBlock1{
+    outline: 1px solid lightgrey;
+    height: 50px;
+    width: 55%;
+}
+.siteHeaderBlock2{
+    width: 40%;
+    height: 50px;
+    float: right;
+}
+.siteHeaderBlock3, .siteHeaderBlock4{
+    outline: 1px solid lightgrey;
+    height: 50%;
+}
+.block2{
+    outline: 1px solid lightgrey;
+    margin-top: 10px;
+    height: 170px;
+}
+.siteFooter{
+    margin-top: 10px;
+    outline: 1px solid lightgrey;
+    height: 20px;
+}
